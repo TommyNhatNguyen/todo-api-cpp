@@ -1,0 +1,12 @@
+{
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "*.ejs": "html",
+    "ios": "cpp",
+    "bitset": "cpp",
+    "string": "cpp",
+    "fstream": "cpp",
+    "iostream": "cpp"
+  },
+  "C_Cpp.default.compilerPath": "/usr/bin/clang++"
+}
